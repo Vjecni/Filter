@@ -1,20 +1,13 @@
 # Filter
 
-Filter is social media platform intended for all media creators as well for those who just want to express their feelings without being censored or have to be scared of their 
-post being deleted. We believe in 100% trasnparency and freedom of speech.
+Filter is not just another social media platform; it's a haven for media creators and individuals seeking a space to express themselves without the fear of censorship or post deletion. Our commitment revolves around the principles of 100% transparency and unwavering support for freedom of speech.
 
-Filter UI is designed with beauty & easy-for-use in mind, it is simple effective yet beautiful.
+The Filter UI is a marriage of aesthetics and user-friendliness. Meticulously designed, it effortlessly combines simplicity with effectiveness, ensuring a visually stunning experience for all.
 
-While working on Filter, I had in mind to allow users much more customization of application than just switching between light and dark theme.
-As one of people who likes nice color and custom design, I decided to offer users ability to create their own color themes, change appereance font, change roundnedd of 
-borders on elemends etc...Of course, in my oppinion, this wasnt enough so I decided to step further and add more options which yet has to be developed and tested.
+In the development process of Filter, my vision expanded beyond the conventional customization options. Recognizing the desire for more than just light and dark themes, I sought to empower users with an array of personalization features. From crafting unique color themes to altering font appearances and tweaking the roundedness of borders on elements, the goal was to provide a platform that truly caters to individual tastes.
 
-Just simple creating posts and sending messages is kinda boring, so I decided to make something like currency system whose main purpose is to allow users to, by being 
-active on platform, making posts, commenting, inviting others, sending private and talking with other people as well as gaining likes, comments and shares on their own posts
-earn coins which they can later use to buy some "perks" in store like badges, create their own ones, profile backgrounds, banners, animated avatars, app themes, icons and more
-and all that without paying a dime. Of course, if they actually dont want to grind, they can simply buy coins in the shop and use them for whatever they like.
+Going beyond the ordinary, I introduced a currency system within Filter. This innovative approach rewards users for their platform activity – posting, commenting, inviting others, engaging in private conversations, and garnering likes, comments, and shares. These efforts accumulate as coins, a virtual currency that users can later spend in the store. From badges and personalized creations to profile backgrounds, banners, animated avatars, app themes, icons, and more – all without spending a cent. For those who prefer a shortcut, coins are also available for purchase in the shop.
 
-Now, to technical side, Filter is social media platform whose frontend is developed using ReactJS Framework while backend is done in GoLang.
-It uses custom made minimal web server called __Fuego__ which main case is handling requests, routing and security.
+On the technical front, Filter is a social media platform with a ReactJS Framework frontend and a GoLang backend. The backbone of our system is the Fuego web server, meticulously crafted to handle requests, manage routing, and ensure security.
 
-It uses military grade encryption AES-256 and complex algorithms to provide maximum security of our users without losing on performances.
+Security is paramount, and Filter employs military-grade encryption in the form of AES-256, coupled with complex algorithms. This dual approach guarantees maximum user security without compromising on performance.
