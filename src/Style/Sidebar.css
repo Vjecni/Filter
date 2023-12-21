@@ -1,0 +1,24 @@
+.sidebarContainer {
+    position: relative;
+    width: 15%;
+    height: 100vh;
+    border-right: solid 1px #ddd;
+} 
+.sidebarContent {
+    padding: 20px;
+}
+.sidebarLinkerBox {
+    margin-bottom: 5px;
+    cursor: pointer;
+    display: flex;
+    transition: .3s ease;
+    align-items: center;
+    gap: 1.1em;
+    padding: 10px 25px;
+}
+.sidebarLinkerBox:hover P{
+    color: #528eb6;
+}
+.sidebarTop {
+    border-bottom: solid 1px #ddd;
+}

@@ -1,0 +1,25 @@
+nav {
+    padding: 10px 60px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    background: #26193f;
+    border-bottom: solid 1px #ddd;
+}
+.navLeft {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 4em;
+}
+.navSearch {
+    position: relative;
+    max-width: 250px;
+    width: 100%;
+}
+.navTools{
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
